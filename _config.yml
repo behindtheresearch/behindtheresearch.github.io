@@ -47,14 +47,16 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/behindresearch
-  - title: instagram
-    url: https://instagram.com/behindtheresearch
   - title: twitch
     url: http://twitch.tv/behindtheresearch
-  - title: tiktok
-    url: http://tiktok.com/@behindtheresearch
+  - title: instagram
+    url: https://instagram.com/behindtheresearch
+  - title: youtube
+    url: https://www.youtube.com/@behindtheresearch
+  - title: twitter
+    url: https://twitter.com/behindresearch
+  #- title: tiktok
+  #  url: http://tiktok.com/@behindtheresearch
 
 
 # Postal address (add as many lines as necessary)
