@@ -9,40 +9,41 @@ description: "An intiative at the University of Bath Maths Department, showcasin
 
 # Team names, titles and social links
 people:
-- name: Kat Phillips
-  pic: Kat
-  position: Lead of Behind the Research. Final year PhD Student studying Impacting Droplets. Maths Communicator under the brand "KatDoesMaths".
-  social:
-    - title: twitter
-      url: https://twitter.com/katdoesmaths
-    - title: globe
-      url: https://katdoesmaths.me
-    - title: twitch
-      url: https://twitch.tv
-
-- name: Seb Scott
-  pic: seb
-  position: Second year PhD student researching how machine learning can be used in solving inverse problems, such as those arising in medical imaging aplications.
+- name: Addie Baker
+  pic: Addie
+  position: Second year SAMBa PhD Student, working on optimising treatment of Tuberculosis through mathematical modeling of drug resistance in the granuloma microenvironment. In their spare time, Addie enjoys reading, playing D&D, and bouldering!
   social:
     - title: globe
-      url: https://people.bath.ac.uk/ss2767
+      url: https://samba.ac.uk/student/addie-baker/
 
-
-- name: Beth Stokes
-  pic: Beth
-  position: First year PhD student, studying collective motion of Trinidadian Guppies. Her research aim is to develop a mathematical model that describes their behaviour across multiple, spatioal, social, and temporal scales.
-  social:
-    - title: twitter
-      url: https://twitter.com/knottheoryknits
-    - title: globe
-      url: https://people.bath.ac.uk/bms58
-
-- name: Henry Writer
-  pic: Henry
-  position: MRes Student at SAMBa CDT. Interested in studying numerical methods for fluid dynamical problems.
+- name: Ameen Hassan
+  pic: 
+  position:
   social:
     - title: globe
-      url: https://www.henrywritermaths.com/
+      url: 
+
+
+- name: Ben Dutton
+  pic: Ben
+  position: Third-year SAMBa PhD student, working on developing fast probabilistic models for uncertainty quantification in proton beam therapy. Outside of maths, runs a photography Instagram account (@bendutto) and loves cooking and gaming. 
+  social:
+    - title: globe
+      url: https://samba.ac.uk/student/ben-dutton/
+
+- name: Lewis Groves
+  pic: Lewis
+  position: Lewis is a third-year algebra PhD student, working on applying geometric tools to the study of algebraic objects. In his spare time he enjoys roller skating and beating Ameen at Guitar Hero.
+  # social:
+  #   - title: globe
+  #     url: https://www.henrywritermaths.com/
+
+- name: Liz Wright
+  pic: Liz
+  position: Second year SAMBa PhD student, studying the phenomenon of Dead Water. Beyond maths, loves crochet, camping and baking her own sourdough bread.
+  social:
+    - title: globe
+      url: https://samba.ac.uk/student/liz-wright/
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
