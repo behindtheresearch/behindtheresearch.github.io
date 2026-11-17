@@ -15,18 +15,23 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="hidden">
-                        <a href="#page-top"></a>
-                    </li>
+
                     <li>
-                        <a class="page-scroll" href="#services">Portfolio</a>
+                        <a href="{{ '/' | relative_url }}">Home</a>
                     </li>
+                
                     <li>
-                        <a class="page-scroll" href="#about">About</a>
+                        <a href="{{ '/history.html' | relative_url }}">
+                            History
+                        </a>
                     </li>
+                
                     <li>
-                        <a class="page-scroll" href="#team">Team</a>
+                        <a href="{{ '/content.html' | relative_url }}">
+                            Content
+                        </a>
                     </li>
+                
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
